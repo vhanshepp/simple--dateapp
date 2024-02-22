@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": "844cb891-4247-4bcd-9ac8-8b1e2fe72db8",
+      "text": "Pembukaan"
+    },
+    {
+      "id": "1c815fcc-54a0-455c-ab8e-7b3030d20959",
+      "text": "Sambutan"
+    },
+    {
+      "id": "6c3e8b59-9d3a-41f2-b4cb-fb7bab01abc9",
+      "text": "Penampilan"
+    },
+    {
+      "id": "664a1692-3d5a-4061-b746-b98f0aa16f72",
+      "text": "Cerdas Cermat"
+    },
+    {
+      "id": "a1b4019a-f738-41a7-a048-d19c66b8454c",
+      "text": "Pos 2 Pos"
+    },
+    {
+      "id": "868b2ab9-7b18-43bf-93bc-1df6fb471680",
+      "text": "Ishoma"
+    },
+    {
+      "id": "53a006da-2d5a-4971-b95c-0e896ff680ad",
+      "text": "Pos 2 pos pt 2"
+    },
+    {
+      "id": "d4d3432e-869f-4367-a176-ba3bc16e62e2",
+      "text": "Istirahat"
+    },
+    {
+      "id": "9866f4dd-3750-40ea-8d55-1f2e3a4184e1",
+      "text": "Pelantikan"
+    },
+    {
+      "id": "a9ab179d-00d1-4dd7-9811-f4d8d9496231",
+      "text": "Penutupan"
+    }
+  ],
+  "coba": [
+    {
+      "id": "1",
+      "nama": "evan"
+    },
+    {
+      "id": "2",
+      "nama": "raifan"
+    }
+  ]
+}
